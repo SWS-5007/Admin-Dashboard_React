@@ -1,1 +1,4 @@
-# Admin-Dashboard_React
+# React Admin Dashboard
+
+Completed React Admin Dashboard Repo
+
